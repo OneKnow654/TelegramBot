@@ -6,7 +6,7 @@ import ChatBot_Ai as google
 import os
 
 l()
-
+#change with your  telegram api 
 TOKEN:Final = os.getenv("telegram_api")
 BOT_Name:Final = "@Oneknown3bot"
 
